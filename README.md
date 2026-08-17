@@ -173,6 +173,10 @@ plt.subplot(122); plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Hist
 
 <img width="740" height="502" alt="Screenshot 2026-08-08 010900" src="https://github.com/user-attachments/assets/fbc4feeb-53d6-4047-bb52-bb131e9d0ef0" />
 
+<img width="1481" height="542" alt="Screenshot 2026-08-17 160058" src="https://github.com/user-attachments/assets/40e4ddc2-abd2-4f24-9b18-8a36b277b483" />
+
+<img width="1581" height="492" alt="Screenshot 2026-08-17 160107" src="https://github.com/user-attachments/assets/b286d581-0aa0-4dcf-8775-a460e8832f37" />
+
 
 ---
 
