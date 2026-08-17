@@ -1,5 +1,9 @@
 # Exp 3 -Histogram Equalization Using OpenCV (Grayscale & Color Images)
 
+
+### Developed By: DEEPAK K R
+
+### Register Number: 212225040057
 ---
 
 ## Aim
@@ -66,12 +70,6 @@ Merge the channels and convert the image back to BGR format.
 Display original color image, histogram, enhanced image, and enhanced histogram using a 2 × 2 grid.
 
 ---
-
-
-
-### Developed By: DEEPAK K R
-
-### Register Number: 212225040057
 
 
 ## Program
